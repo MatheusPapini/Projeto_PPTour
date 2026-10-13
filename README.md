@@ -35,7 +35,7 @@ O PPTour tem como objetivo promover o Expresso Turístico de Paranapiacaba por m
 - Utilização da metodologia Kanban.
 - Colaboração na implementação de funcionalidades.
 
-🔗 Repositório: *pptour.vercel.app*
+🔗 Repositório: *https://pptour.vercel.app/*
 
 ### 📚 Atualmente
 
